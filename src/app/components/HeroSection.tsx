@@ -34,8 +34,7 @@ const HeroSection = () => {
               repeat={Infinity}
             />
             </h1>
-        <p className='text-[#bebbad] text-base sm:text-lg mb-6 lg:text-xl'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste, minus maiores quibusdam temporibus delectus e
-            xplicabo reiciendis ut molestias quas debitis obcaecati rem dignissimos quia molestiae</p>
+        <p className='text-[#bebbad] text-base sm:text-lg mb-6 lg:text-xl'>I'm Ahsan, a Passionate Front-End-Web Developer Dedicated to Transforming innovative ideas into Digital realities.  Leveraging the power of modern technologies like React.JS, TypeScript, and Tailwind CSS, I strive to create elegant and efficient solutions to complex challenges. Whether it's crafting intuitive user interfaces or optimizing website Performance, I'm committed to delivering top-notch results that exceed Expectations.</p>
             <div>
                 <button className='px-6 py-3 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-red-500 via-primary-500 to-p via-yellow-500 hover:bg-slate-200 text-white'><a href="https://www.instagram.com/notyour__ahsan/" target='blank'>Hire Me</a></button>
                 <button className='px-1 py-1 w-full sm:w-fit rounded-full bg-gradient-to-br from-red-500 via-yellow-500 to-primary-500 hover:bg-slate-200 text-white  mt-3'><a href="https://www.linkedin.com/in/muhammad-ahsan-b26317296/" target='blank'><span className='block bg-[#121212] hover:bg-slate-800  rounded-full px-5 py-2 '>DM Me on Linkdin</span></a></button>

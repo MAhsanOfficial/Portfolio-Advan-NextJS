@@ -69,7 +69,7 @@ const AboutSection: React.FC = () => {
             working with JavaScript, React.JS, Redux, Next.JS, Tailwind,TypeScript,Video Editing,
              HTML, CSS, and Git. I am a quick Learner and I am always
             looking to expand my Knowledge and Skill set. I am a team Player and
-            I am Excited to work with others to create amazing Web Applications. have the Expertise in this Current Technology.I have good experience with them And if you want to work on this skills base or any Web Applications base, then let me know I am also Ready with You.
+            I am Excited to work with others to create amazing Web Applications.  I Think your in-Skill base is Pretty Helpful. Check out my 15+ Front-End Base Projects if you like me.We're available 24/7 for make-ups, so if you need any less front-end development work done, we're here foryou.I have 1 year of experience in front-end development.So you can teach me any front-end related project To give Me.Get ready for 24/7 meetings with Mayup I quite like this front-end development.And my communication skills are also quite good whether it is client or any other!. I have the Expertise in this Current Technology.I have good experience with them And if you want to work on this skills base or any Web Applications base, then let me know I am also Ready with You.
                     </p>
                     <div className='flex flex-row justify-start mt-8'>
                         {/* Pass the proper types to TabButton */}
