@@ -101,12 +101,12 @@ const EmailSection: React.FC = () => {
           >
             Send Message
           </button>
-          {/* {emailSubmitted && (
+          {emailSubmitted && (
             <p className='text-primary-500 text-sm mt-2'>
               Email Sent Successfully!
             </p>
           )
-          } */}
+          }
         </form>
       </div>
     </section>
