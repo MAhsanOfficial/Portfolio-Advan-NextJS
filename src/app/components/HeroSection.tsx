@@ -50,7 +50,7 @@ const HeroSection = () => {
         >   
             <div className='rounded-full bg-[#ffc320] w-[200px] h-[200px] lg:w-[400px] lg:h-[400px] relative m-9'>
        <Image
-       src="/images/hero-image.png"
+       src="/images/me-ahsan.jpg"
        alt='hero image'
        className='absolute transform -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2'
     width={230}
